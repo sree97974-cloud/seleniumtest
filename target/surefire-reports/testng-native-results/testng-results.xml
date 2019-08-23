@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="10182" started-at="2019-08-23T11:07:33Z" finished-at="2019-08-23T11:07:43Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="10182" started-at="2019-08-23T11:07:33Z" finished-at="2019-08-23T11:07:43Z">
+      <class name="co.sree.seleniumTestNG.EMT_Transfer_Test">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:co.sree.seleniumTestNG.EMT_Transfer_Test@6b2fad11]" name="beforeMethod" is-config="true" duration-ms="9808" started-at="2019-08-23T11:07:33Z" finished-at="2019-08-23T11:07:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="EMTTransfer()[pri:0, instance:co.sree.seleniumTestNG.EMT_Transfer_Test@6b2fad11]" name="EMTTransfer" duration-ms="12" started-at="2019-08-23T11:07:43Z" finished-at="2019-08-23T11:07:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EMTTransfer -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:co.sree.seleniumTestNG.EMT_Transfer_Test@6b2fad11]" name="afterMethod" is-config="true" duration-ms="332" started-at="2019-08-23T11:07:43Z" finished-at="2019-08-23T11:07:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- co.sree.seleniumTestNG.EMT_Transfer_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
